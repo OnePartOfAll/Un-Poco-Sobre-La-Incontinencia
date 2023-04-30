@@ -1,1 +1,43 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi blog en WikiHow</title>
+  <link rel="stylesheet" href="https://www.wikihow.com/load.php?debug=false&amp;lang=es&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+</head>
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <a href="https://www.wikihow.com/especial:Inicio"><img src="https://www.wikihow.com/images/4/4a/Wikihow_logo.png" alt="WikiHow" /></a>
+      <form class="search-form">
+        <input type="search" placeholder="Buscar en WikiHow..." />
+        <button type="submit">Buscar</button>
+      </form>
+    </header>
+    <nav class="navigation">
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Cómo hacer algo 1</a></li>
+        <li><a href="#">Cómo hacer algo 2</a></li>
+        <li><a href="#">Cómo hacer algo 3</a></li>
+        <li><a href="#">Cómo hacer algo 4</a></li>
+      </ul>
+    </nav>
+    <main class="content">
+      <article class="post">
+        <header class="post-header">
+          <h1 class="post-title">Título del artículo</h1>
+          <p class="post-meta">Publicado el 30 de abril de 2023 por Juan Pérez</p>
+        </header>
+        <div class="post-content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, dui ac faucibus tincidunt, magna ex vestibulum odio, eget bibendum velit lacus quis velit. Nam ultrices lorem nec felis faucibus, eget hendrerit justo volutpat. Nunc ullamcorper odio in sapien semper, a fringilla ex mattis.</p>
+          <p>Nullam consectetur tortor quis enim vestibulum elementum. Integer hendrerit ex sed est fermentum, vel molestie elit accumsan. Fusce finibus convallis ligula eu euismod. Nullam eget arcu vel risus sollicitudin pharetra. Fusce ac dui ut dolor bibendum vehicula. Vestibulum non ullamcorper lacus.</p>
+          <p>Nunc dapibus tortor sit amet metus cursus, ut rhoncus sapien ultricies. Aenean eu fringilla mauris, nec pellentesque elit. Cras vitae dui eget urna molestie auctor ac sed tellus. In sit amet mi odio. Pellentesque rutrum lorem ac neque accumsan, nec tincidunt purus maximus. Maecenas at laoreet velit. </p>
+        </div>
+      </article>
+    </main>
+    <footer class="footer">
+      <p>Derechos de autor © 2023 WikiHow</p>
+    </footer>
+  </div>
+</body>
+</html>
